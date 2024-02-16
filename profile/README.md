@@ -1,1 +1,1 @@
-<img src="./patsa_logo.png" height="200">
+<img src="../images/patsa_logo.png" height="200">
